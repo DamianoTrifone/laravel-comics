@@ -27,3 +27,8 @@
     display: inline-block;
 }
 
+.jumbotron img{
+    height: 250px;
+    width: 100%;
+}
+

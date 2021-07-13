@@ -17,3 +17,7 @@
     <a href="#">Shop</a>
     <input type="text" placeholder="Search">
 </div>
+
+<div class="jumbotron">
+    <img src="{{ asset('img/jumbotron.jpg') }}" alt="">
+</div>
