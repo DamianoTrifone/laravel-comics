@@ -30,5 +30,7 @@
 .jumbotron img{
     height: 250px;
     width: 100%;
+}.jumbotron{
+    float: left;
 }
 
