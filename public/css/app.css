@@ -1,0 +1,29 @@
+.sup{
+    display: flex;
+    justify-content: flex-end;
+    background-color: #0282F9;
+    width: 100%;
+}
+
+.sup a{
+    text-decoration: none;
+    padding: 0px 20px;
+    margin-right: 20px;
+    color: white;
+}
+
+.link img{
+    width: 50px;
+    padding: 10px;
+    display: inline-block;
+}
+
+.link a{
+    text-decoration: none;
+    text-transform: uppercase;
+    color: #1C1C1C;
+    font-size: 15px;
+    padding: 8px;
+    display: inline-block;
+}
+
