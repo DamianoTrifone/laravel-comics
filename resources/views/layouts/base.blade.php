@@ -6,7 +6,7 @@
         @include('header')
 
         @yield('main')
-        
+        <a href="#">Load more</a>
         @include('footer')
     </body>
 </html>
